@@ -1,7 +1,7 @@
 # Microtask 4
 Set up a dev environment to work on GrimoireLab.
 
-Here's the [Reference](https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pycharm-dev-environment.).
+Here's the [Reference](https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pycharm-dev-environment).
 
 In this task, We will use the method of `docker-compose`to set up the GrimoireLab developer environment. It is really powerful and convenient.
 

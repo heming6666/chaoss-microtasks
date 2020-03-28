@@ -27,6 +27,13 @@ Here is my [proposal]() (to be attached).
 
 ## Microtask 4
 
-- [x] **Task**:Set up a dev environment to work on GrimoireLab. .
+- [x] **Task**:Set up a dev environment to work on GrimoireLab.
 
 - Explanation can be found [here](./microtask-4).
+
+## Microtask 5
+
+- [x] **Task**:
+Execute micro-mordred to collect, enrich and visualize data from any GitHub repository.
+
+- Explanation can be found [here](./microtask-5).

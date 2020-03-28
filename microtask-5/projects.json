@@ -1,0 +1,16 @@
+{
+  "hypertrons": {
+      "git": [
+          "https://github.com/hypertrons/hypertrons.git"
+      ],
+      "github": [
+          "https://github.com/hypertrons/hypertrons"
+      ],
+      "github:pull": [
+          "https://github.com/hypertrons/hypertrons"
+      ],
+      "github:repo": [
+          "https://github.com/hypertrons/hypertrons"
+      ]
+  }
+}
