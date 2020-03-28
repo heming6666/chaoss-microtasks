@@ -45,6 +45,13 @@ Execute micro-mordred to obtain data from the study `enrich_geolocation` for any
 
 - Explanation can be found [here](./microtask-6).
 
+## Microtask 7
+
+- [x] **Task**:
+Create a visualization in Kibiter that shows the top 10 contributors in any GitHub repository and. If you complete Microtask 6, you can create a visualization that shows where the contributors are located.
+
+- Explanation can be found [here](./microtask-7).
+
 ## Microtask 10
 
 - [x] **Task**:

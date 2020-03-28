@@ -35,12 +35,12 @@ Micro-Mordred is a simplified version of Mordred which omits the use of its sche
 - Executing the `micro.py` file with the parameters
 
   ```bash
-  micro.py --raw --enrich --cfg ./setup.cfg --backends git
+  python3 micro.py --raw --enrich --cfg ./setup.cfg --backends git
   ```
   It executes the raw and enrich tasks for the git cfg using the elasticsearch.
 
   ```bash
-  micro.py --panels --cfg ./setup.cfg
+  python3 micro.py --panels --cfg ./setup.cfg
   ```
   It executes the panels task to load the Sigils panels to Kibiter.
 
