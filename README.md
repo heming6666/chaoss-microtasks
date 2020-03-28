@@ -1,8 +1,8 @@
 # chaoss-microtasks
  
-Microtasks for GSOC Idea: [Boosting data processing in GrimoireLab](https://github.com/chaoss/grimoirelab/issues/285).
+Microtasks for GSOC Idea: [Packaging and Sharing CHAOSS metrics using GrimoireLab dashboards](https://github.com/chaoss/grimoirelab/issues/286).
 
-Here is my [proposal]().
+Here is my [proposal]() (to be attached).
 
 ---
 
