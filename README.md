@@ -2,7 +2,7 @@
  
 Microtasks for GSOC Idea: [Packaging and Sharing CHAOSS metrics using GrimoireLab dashboards](https://github.com/chaoss/grimoirelab/issues/286).
 
-Here is my [proposal]() (to be attached).
+Here is my [proposal](https://docs.google.com/document/d/1IG-lU0ZaJCp0jTPRrky6JaVUhqFiFMlPudoj3EmhJ-Q/edit) (under devlopment).
 
 ---
 
