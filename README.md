@@ -37,3 +37,22 @@ Here is my [proposal]() (to be attached).
 Execute micro-mordred to collect, enrich and visualize data from any GitHub repository.
 
 - Explanation can be found [here](./microtask-5).
+
+## Microtask 6
+
+- [x] **Task**:
+Execute micro-mordred to obtain data from the study `enrich_geolocation` for any GitHub repository.
+
+- Explanation can be found [here](./microtask-6).
+
+## Microtask 10
+
+- [x] **Task**:
+Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc.
+
+| No. | Pull Request: repository |  Fixes  | Description | Status |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| 1 | [#124: grimoirelab-kibiter](https://github.com/chaoss/grimoirelab-kibiter/pull/124) | - |Fix broken link in README | Merged |
+| 2 | [#126: grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial/pull/126) | - | Fix the broken link in the installation-for-the-impatient page  |   Merged |
+| 3 | [#436: grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred/pull/436) | [#435](https://github.com/chaoss/grimoirelab-sirmordred/issues/435) | [sirmordred] Remove duplicate call of execute_batch_tasks      |    Merged |
+| 4 | [#448: grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred/pull/448) | - | Fix typo in README | Merged |
