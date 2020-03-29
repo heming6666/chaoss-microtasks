@@ -52,6 +52,14 @@ Create a visualization in Kibiter that shows the top 10 contributors in any GitH
 
 - Explanation can be found [here](./microtask-7).
 
+## Microtask 8
+
+- [x] **Task**:
+Set up Kidash and Archimedes to be executed from PyCharm. Export any dashboard available in your local Kibiter using Kidash and Archimedes.
+
+- Explanation can be found [here](./microtask-8).
+
+
 ## Microtask 10
 
 - [x] **Task**:
