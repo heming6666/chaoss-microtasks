@@ -59,6 +59,11 @@ Set up Kidash and Archimedes to be executed from PyCharm. Export any dashboard a
 
 - Explanation can be found [here](./microtask-8).
 
+## Microtask 9
+
+- [x] **Task**:After reading the documentation at https://www.elastic.co/elastic-stack and https://opendistro.github.io/for-elasticsearch/ try to answer the given questions.
+
+- The Answers can be found [here](./microtask-9).
 
 ## Microtask 10
 
