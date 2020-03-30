@@ -4,71 +4,75 @@ Microtasks for GSOC Idea: [Packaging and Sharing CHAOSS metrics using GrimoireLa
 
 Here is my [proposal](https://docs.google.com/document/d/1IG-lU0ZaJCp0jTPRrky6JaVUhqFiFMlPudoj3EmhJ-Q/edit).
 
+I have submitted 4 pull requests to GrimoireLab’s GitHub projects and information related to my contributions can be found [here](https://github.com/heming6666/chaoss-microtasks#microtask-10).
+
 ---
 
 ## Microtask 1
 
-- [x] **Task**: Set up Perceval to be executed from PyCharm.
+> - [x] **Task**: Set up Perceval to be executed from PyCharm.
 
 - Explanation can be found [here](./microtask-1).
 
 
 ## Microtask 2
 
-- [x] **Task**: Create a Python script to execute Perceval via its Python interface using the Git and GitHub backends. Feel free to select any target repository.
+> - [x] **Task**: Create a Python script to execute Perceval via its Python interface using the Git and GitHub backends. Feel free to select any target repository.
 
 - Explanation can be found [here](./microtask-2).
 
 ## Microtask 3
 
-- [x] **Task**:Based on the JSON documents produced by Perceval and its source code, try to answer the given questions.
+> - [x] **Task**:Based on the JSON documents produced by Perceval and its source code, try to answer the given questions.
 
-- The Answers can be found [here](./microtask-3).
+- The answers can be found [here](./microtask-3).
 
 ## Microtask 4
 
-- [x] **Task**:Set up a dev environment to work on GrimoireLab.
+> - [x] **Task**:Set up a dev environment to work on GrimoireLab.
 
 - Explanation can be found [here](./microtask-4).
 
 ## Microtask 5
 
-- [x] **Task**:
+> - [x] **Task**:
 Execute micro-mordred to collect, enrich and visualize data from any GitHub repository.
 
 - Explanation can be found [here](./microtask-5).
 
 ## Microtask 6
 
-- [x] **Task**:
+> - [x] **Task**:
 Execute micro-mordred to obtain data from the study `enrich_geolocation` for any GitHub repository.
 
 - Explanation can be found [here](./microtask-6).
 
 ## Microtask 7
 
-- [x] **Task**:
+> - [x] **Task**:
 Create a visualization in Kibiter that shows the top 10 contributors in any GitHub repository and. If you complete Microtask 6, you can create a visualization that shows where the contributors are located.
 
 - Explanation can be found [here](./microtask-7).
 
 ## Microtask 8
 
-- [x] **Task**:
+> - [x] **Task**:
 Set up Kidash and Archimedes to be executed from PyCharm. Export any dashboard available in your local Kibiter using Kidash and Archimedes.
 
 - Explanation can be found [here](./microtask-8).
 
 ## Microtask 9
 
-- [x] **Task**:After reading the documentation at https://www.elastic.co/elastic-stack and https://opendistro.github.io/for-elasticsearch/ try to answer the given questions.
+> - [x] **Task**:After reading the documentation at https://www.elastic.co/elastic-stack and https://opendistro.github.io/for-elasticsearch/ try to answer the given questions.
 
-- The Answers can be found [here](./microtask-9).
+- The answers can be found [here](./microtask-9).
 
 ## Microtask 10
 
-- [x] **Task**:
+> - [x] **Task**:
 Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc.
+
+I have submitted 4 pull requests to GrimoireLab’s GitHub projects. Here's the list of my contributions:
 
 | No. | Pull Request: repository |  Fixes  | Description | Status |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
